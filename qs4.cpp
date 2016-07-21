@@ -33,7 +33,7 @@ int main()
 	int A[4]={1,2,3,4};
 	int index=0;
 	index=find(A,4,2);
-	cout<<index<<endl;
+	cout<<"Element found at index: "<<index<<endl;
 	system("pause");
 	return 0;
 }
